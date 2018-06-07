@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 lfsdf
 
 kl
+=======
+sdfsdf
+>>>>>>> f9f77c75cfd53ce3adbb92d3a1a8d98e9b777b8e
+1
