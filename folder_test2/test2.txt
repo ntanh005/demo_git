@@ -1,8 +1,0 @@
-master-01
-master-02
-v1-01
-v1-02
-master-03
-master-04
-v2-01
-v2-02
